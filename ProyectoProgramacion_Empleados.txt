@@ -1,0 +1,7 @@
+ID031 Juan Perez Lopez 1990 05 10 5551234567 0 2023 01 15 Conductor
+ID032 Maria Garcia Ruiz 1988 12 03 5552345678 1 2023 03 20 Repartidor
+ID033 Carlos Martinez Flores 1995 08 22 5553456789 2 2023 06 10 Conductor
+ID034 Ana Sanchez Torres 1992 04 17 5554567890 0 2023 09 05 Repartidor
+ID035 Pablo Rodriguez Mendez 1987 11 30 5555678901 1 2023 11 15 Conductor
+ID036 Laura Morales Jimenez 1993 07 25 5556789012 2 2024 01 08 Repartidor
+

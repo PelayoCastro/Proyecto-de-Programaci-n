@@ -1,0 +1,5 @@
+Producto1 100 29.99
+Producto2 150 15.5
+Producto3 75 45.75
+Producto4 200 9.99
+Producto5 50 99.99
